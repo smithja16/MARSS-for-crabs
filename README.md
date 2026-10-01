@@ -3,7 +3,7 @@
 A worked example of a multivariate autoregressive state-space (MARSS) model that
 integrates commercial and fishery-independent survey catch rates, and of two ways to
 measure what the survey adds. It accompanies Smith, Johnson & Taylor (in prep.)
-*Estimating the value of a fishery-independent survey to catch rate assessment using a multivariate time series analysis*, which applies the method to blue swimmer crab (*Portunus armatus*) in
+**Estimating the value of a fishery-independent survey to catch rate assessment using a multivariate time series analysis**, which applies the method to blue swimmer crab (*Portunus armatus*) in
 Wallis Lake, New South Wales.
 
 **This repository runs on synthetic data.** The commercial catch data used in the paper

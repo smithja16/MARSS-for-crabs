@@ -7,9 +7,9 @@ measure what the survey adds. It accompanies Smith, Johnson & Taylor (in prep.)
 Wallis Lake, New South Wales.
 
 **This repository runs on synthetic data.** The commercial catch data used in the paper
-are confidential. `simulate_data.R` generates a dataset with the same structure — 67
+are confidential. `simulate_data.R` generates a dataset with the same structure - 67
 monthly observations of six series, the same months without survey data, and similar
-covariates — by simulating from the parameter estimates published in Table S2 of the
+covariates - by simulating from the parameter estimates published in Table S2 of the
 paper. The workflow therefore runs end to end, but **it does not reproduce the paper's
 numbers.** The real data can be requested from the corresponding author:
 **james.a.smith@dpird.nsw.gov.au**.

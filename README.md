@@ -95,5 +95,5 @@ supplementary material and is not repeated here.
 
 ## Use of generative AI
 
-The code was developed with assistance from AI tools (ChatGPT, Claude), as declared in
+The code was developed with assistance from AI tools (Copilot, Claude), as declared in
 the manuscript. All analyses were directed and checked by the authors.

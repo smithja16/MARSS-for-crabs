@@ -29,8 +29,8 @@ Requires R ≥ 4.3 with the **MARSS** (3.11.10) and **sandwich** packages.
 
 ## The model
 
-Two latent states — male and female abundance available to the fishery, on the
-commercial catch-rate scale — observed monthly by six series:
+Two latent states - male and female abundance available to the fishery, on the
+commercial catch-rate scale - observed monthly by six series:
 
 | Series | Units | Informs |
 |---|---|---|

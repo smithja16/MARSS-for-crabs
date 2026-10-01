@@ -55,7 +55,7 @@ states.
 3. **Measures survey value by forecast accuracy.** At each forecast origin both models
    are refitted and used to forecast commercial catch rates one to three months ahead.
    The commercial-only model cannot estimate its own observation error, so it is given
-   the full model's estimate — a deliberate help to the baseline. Only the commercial
+   the full model's estimate - a deliberate help to the baseline. Only the commercial
    series are scored, so every model is judged on the same values. A seasonal naïve
    forecast is included as a reference.
 4. **Measures survey value by estimation precision.** Survey observations are removed
@@ -74,8 +74,8 @@ states.
 | `R/survey_value_se.R` | The survey-removal precision test |
 | `R/published_parameters.R` | Parameter estimates used for the simulation |
 
-The paper's model selection — the choice of temperature series and lag, the error
-structures, and temperature as a catchability effect — is reported in its
+The paper's model selection - the choice of temperature series and lag, the error
+structures, and temperature as a catchability effect - is reported in its
 supplementary material and is not repeated here.
 
 ---
